@@ -126,9 +126,24 @@ Una vez hecho lo anterior, valide que se da el desacoplamiento: en ninguna parte
 
 		1. Sólo con cambiar la configuración de la fábrica abstracta, debe cambiar el estilo del juego.
 
+---
 
+## Créditos y uso académico
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este contenido hace parte del curso Procesos de Desarrollo de Software del programa de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería, y está licenciado como <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+**Autor:** César Augusto Vega Fernández  
+**Curso:** Diseño y Arquitectura de Software  
+**Programa:** Ingeniería Informática – Universidad de La Sabana
 
+Este taller está basado en material del curso *Procesos de Desarrollo de Software* del programa de Ingeniería de Sistemas de la **Escuela Colombiana de Ingeniería**, distribuido bajo licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
 
+El juego de la Parte II es una versión modificada de [spacewar-2d](https://github.com/ekaputra07/spacewar-2d), de Eka Putra, distribuido bajo licencia MIT. Ese código conserva su licencia original, incluida en el archivo [`LICENSE-spacewar-2d`](LICENSE-spacewar-2d).
 
+### Licencia de uso
+
+Este material se distribuye bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). El texto completo está en el archivo [`LICENSE`](LICENSE).
+
+Puedes **usar, adaptar o compartir** este contenido con fines educativos, siempre que:
+
+1. Se reconozca la autoría del profesor **César Augusto Vega Fernández** y de la **Escuela Colombiana de Ingeniería** como autora del material original.
+2. No se utilice con fines comerciales.
+3. Las obras derivadas se distribuyan bajo la misma licencia.
